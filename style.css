@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #34c759;
-    --dark-bg: #001200;
+    --primary-color: #ffcc00;
+    --dark-bg: #1a1a00;
     --light-text: #ffffff;
     --secondary-gray: #8e8e93;
 }
@@ -44,5 +44,5 @@ h1 {
     height: 8px;
     background-color: var(--primary-color);
     border-radius: 4px;
-    box-shadow: 0 0 15px rgba(52, 199, 89, 0.5);
+    box-shadow: 0 0 15px rgba(255, 204, 0, 0.5);
 }
